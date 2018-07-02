@@ -10,3 +10,10 @@ https://www.kaggle.com/c/titanic
 ![結果その1](./image/clip1.png)  
 
 ## 2.
+### 精度：
+
+---
+
+## 参考
+[【Kaggle初心者入門編】タイタニック号で生き残るのは誰？](https://www.codexa.net/kaggle-titanic-beginner/)   
+
