@@ -1,4 +1,4 @@
-# kaggle_Titanic 「タイタニックの生存者予測」  
+# タイタニックの生存者予測   
 Titanic: Machine Learning from Disaster  
 https://www.kaggle.com/c/titanic  
 
@@ -6,6 +6,9 @@ https://www.kaggle.com/c/titanic
 
 ## 1. my_tree_one.csv  
 ### 精度：0.72248  
+
+決定木  
+「チケットクラス（社会経済的地位）」「性別」「年齢」「料金」  
 
 ![結果その1](./image/clip1.png)  
 
